@@ -1,5 +1,10 @@
 # search-algorithms
 
+Task list
+
+- [ ] Insertion Sort in Java
+- [ ] Quick Sort in Python
+
 Folder Organization
 
 - Python
@@ -16,4 +21,3 @@ Folder Organization
 5. Rebase and push your commits to your GitHub remote fork/repository
 6. Issue a Pull Request to the official repository
 7. Your Pull Request is reviewed by a committer and merged into the repository
-
