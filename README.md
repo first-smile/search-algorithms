@@ -1,6 +1,6 @@
 # search-algorithms
 
-Folders Index 
+Folder Organization
 
 - Python
 - Java
