@@ -2,8 +2,9 @@
 
 Task list
 
-- [ ] Insertion Sort in Java
-- [ ] Quick Sort in Python
+- [x] Insertion Sort in Java
+- [x] Quick Sort in Python
+- [ ] Issue 1 branch commit
 
 Folder Organization
 
