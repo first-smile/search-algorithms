@@ -5,6 +5,9 @@ Task list
 - [x] Insertion Sort in Java
 - [x] Quick Sort in Python
 - [ ] Issue 1 branch commit
+- [ ] Heap Sort
+- [ ] Binary search
+- [ ] Merge sort
 
 Folder Organization
 
